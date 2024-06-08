@@ -13,3 +13,5 @@ memory_profiler
 numexpr
 pandas-datareader
 netcdf4
+jupyter-server>=2.14.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
